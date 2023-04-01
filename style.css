@@ -1,0 +1,25 @@
+body{
+text-align: center;
+background-color: aqua;
+}
+.menu{
+width:100%;
+z-index:10;
+background-color:white;
+margin-top:0px;
+top:0px;
+position:fixed;
+}
+.links{
+display:inline;
+padding-left:33px;
+padding-right:25px;
+font-size:20px;
+font-family:fantasy;
+text-decoration:none;
+}
+.links:hover{
+font-size:25px;
+text-decoration: underline;
+color: rgb(253, 7, 7);
+}
